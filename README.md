@@ -3,6 +3,10 @@
 InkSpire is a web application that leverages Generative Adversarial Networks (GANs) to convert sketches into colored images in real-time. This project combines an interactive frontend canvas with a Flask backend powered by a custom-trained GAN model, which was trained on the [Anime Sketch Colorization Pair Dataset](https://www.kaggle.com/datasets/ktaebum/anime-sketch-colorization-pair). It provides users with a seamless and dynamic sketch-to-image translation experience.
 
 
+**Contributors:**
+- Samrat Ray (IIT2023066)
+- Ranjeet Kulkarni (IIT2023064)
+
 ---
 
 ## Key Features
