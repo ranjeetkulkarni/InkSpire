@@ -4,8 +4,6 @@ InkSpire is a web application that leverages Generative Adversarial Networks (GA
 
 ---
 
-## Features
-
 ## Key Features
 - **🌟 Instant Image Transformation**: Sketch your ideas and see them come to life with vibrant colors, powered by GANs.
   
