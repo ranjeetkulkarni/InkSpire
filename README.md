@@ -7,6 +7,9 @@ InkSpire is a web application that leverages Generative Adversarial Networks (GA
 - Samrat Ray (IIT2023066)
 - Ranjeet Kulkarni (IIT2023064)
 
+**Link to Models (Download the Entire Folder):** 
+- https://drive.google.com/drive/folders/1P6_rF7ZAQ83np2US7JAE6TUR4mpTRBqL?usp=sharing
+
 ---
 
 ## Key Features
