@@ -77,6 +77,9 @@ With the Flask server running and the frontend loaded, you can:
 
 ## How It Works
 
+### **DataSet**
+[Anime Sketch Colorization Pair Dataset](https://www.kaggle.com/datasets/ktaebum/anime-sketch-colorization-pair)
+
 ### **Frontend**
 - Users draw on an interactive HTML5 canvas.
 - JavaScript sends the canvas data to the Flask backend every second.
