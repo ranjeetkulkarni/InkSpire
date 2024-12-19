@@ -8,11 +8,11 @@ InkSpire is a web application that leverages Generative Adversarial Networks (GA
 
 ## Key Features
 - **🌟 Instant Image Transformation**: Sketch your ideas and see them come to life with vibrant colors, powered by GANs.
-- 
+  
 - **✍️ Interactive Drawing Canvas**: Draw freely and watch the AI generate a colorized version of your sketch in real-time.
-- 
+  
 - **🎨 AI-Enhanced Artwork**: Add simple sketches, outlines, or doodles, and let InkSpire enhance them with AI-driven colorization.
-- 
+  
 - **🚀 Seamless User Experience**: With an easy-to-use interface, InkSpire ensures that anyone—from beginners to professionals—can create AI-powered artwork effortlessly.
 
 ---
