@@ -117,7 +117,8 @@ Below are the outputs of 5 GAN models trained on the sketch-to-image dataset:
 ### **2. User Interface Preview**
 A glimpse of the interactive dashboard for drawing and viewing results:
 
-![User Interface](dashboard.png)
+![User Interface](images/UI1.png)
+![User Interface](images/UI2.png)
 
 ---
 
